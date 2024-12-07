@@ -1,7 +1,7 @@
 # Behringer WING USB Latency Tests
 
 ## Background
-The following latency tests were conducted after hearing a significant increase in round trip latency compared to what was reported in Live Professor. After taking latency measurements I discovered that real world round trip latency changed depending the USB Audio in/out selection on the WING.  The interesting part through all of this is that the reported round trip latency in Live Professor remained constant. ***As shown in the table below 32x32 was the best performing.***
+The following latency tests were conducted after hearing a significant increase in round trip latency compared to what was reported in Live Professor. After taking latency measurements I discovered that real world round trip latency changed depending on the USB Audio in/out selection on the WING.  The interesting part through all of this is that the reported round trip latency in Live Professor remained constant. ***As shown in the table below 32x32 was the best performing.***
 
 ## Latency Tests
 
