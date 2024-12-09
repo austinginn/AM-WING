@@ -24,3 +24,4 @@ The following latency tests were conducted after hearing a significant increase 
 - Measurements can be found in OSM folder
 - Measurement rig - MOTU M2 with looped output 2 into input 2 for signal ref
 - LP buffer size is constant in all tests that inlcude it - 64 samples
+- Console FW 3.05
